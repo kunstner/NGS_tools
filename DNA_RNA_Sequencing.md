@@ -11,14 +11,14 @@ Collection of tools for next generation sequencing (NGS) analysis of whole genom
 
 **Quality control**
 
-	FastQC  http://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+	FastQC	http://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 
 **Read trimming (and adaptor removal)**
 
-	Trimmomatic http://www.usadellab.org/cms/?page=trimmomatic
-	ConDeTri    https://github.com/linneas/condetri
-	FASTX-Toolkit   http://hannonlab.cshl.edu/fastx_toolkit/
-	cutadapt    https://github.com/marcelm/cutadapt
+	Trimmomatic	http://www.usadellab.org/cms/?page=trimmomatic
+	ConDeTri	https://github.com/linneas/condetri
+	FASTX-Toolkit	http://hannonlab.cshl.edu/fastx_toolkit/
+	cutadapt	https://github.com/marcelm/cutadapt
 	BBDuk	https://sourceforge.net/projects/bbmap/
 
 **Error correction**
@@ -32,48 +32,48 @@ Collection of tools for next generation sequencing (NGS) analysis of whole genom
 	bwa	https://github.com/lh3/bwa
 	bowtie	http://bowtie-bio.sourceforge.net/index.shtml
 	BBMap	https://sourceforge.net/projects/bbmap/
-	Stampy  http://www.well.ox.ac.uk/project-stampy
-	segemehl    http://www.bioinf.uni-leipzig.de/Software/segemehl/
+	Stampy	http://www.well.ox.ac.uk/project-stampy
+	segemehl	http://www.bioinf.uni-leipzig.de/Software/segemehl/
 	
 **RNA-seq aligner**
 
-	HISAT2 http://ccb.jhu.edu/software/hisat2/index.shtml
+	HISAT2	http://ccb.jhu.edu/software/hisat2/index.shtml
 	STAR	https://github.com/alexdobin/STAR
 	Tophat2	http://ccb.jhu.edu/software/tophat/index.shtml
 	
 **Pseudo-aligner for RNA-seq**
 
-	kallisto    https://pachterlab.github.io/kallisto/
-	Salmon  https://combine-lab.github.io/salmon/
-	Sailfish    http://www.cs.cmu.edu/~ckingsf/software/sailfish/
+	kallisto	https://pachterlab.github.io/kallisto/
+	Salmon	https://combine-lab.github.io/salmon/
+	Sailfish	http://www.cs.cmu.edu/~ckingsf/software/sailfish/
     
 **Variant calling**
     
-	GATK    https://software.broadinstitute.org/gatk/gatkdocs/current/
-	VarScan2    http://dkoboldt.github.io/varscan/
-	Samtools    http://www.htslib.org/
-	FreeBayes   https://github.com/ekg/freebayes
-	VarDict https://github.com/AstraZeneca-NGS/VarDict
+	GATK	https://software.broadinstitute.org/gatk/gatkdocs/current/
+	VarScan2	http://dkoboldt.github.io/varscan/
+	Samtools	http://www.htslib.org/
+	FreeBayes	https://github.com/ekg/freebayes
+	VarDict	https://github.com/AstraZeneca-NGS/VarDict
  
 **Variant annotation**
 
-	ANNOVAR https://github.com/WGLab/doc-ANNOVAR/
-	Oncotator   http://portals.broadinstitute.org/oncotator/
-	SNPeff  http://snpeff.sourceforge.net/index.html
-	VAT http://vat.gersteinlab.org/
-	VeP http://www.ensembl.org/info/docs/tools/vep/index.html
-	CADD    http://cadd.gs.washington.edu/
-	Condel  http://bg.upf.edu/fannsdb/query/condel
-	CGI https://www.cancergenomeinterpreter.org/home
+	ANNOVAR	https://github.com/WGLab/doc-ANNOVAR/
+	Oncotator	http://portals.broadinstitute.org/oncotator/
+	SNPeff	http://snpeff.sourceforge.net/index.html
+	VAT	http://vat.gersteinlab.org/
+	VeP	http://www.ensembl.org/info/docs/tools/vep/index.html
+	CADD	http://cadd.gs.washington.edu/
+	Condel	http://bg.upf.edu/fannsdb/query/condel
+	CGI	https://www.cancergenomeinterpreter.org/home
 
 **Manipulating files (sam/bam/vcf/gff/gtf/...)**
     
-	Picard tools    http://broadinstitute.github.io/picard/
-	Samtools    http://www.htslib.org/
-	BCFtools    http://www.htslib.org/
-	bedtools    http://bedtools.readthedocs.io/en/latest/
-	BamTools    https://github.com/pezmaster31/bamtools
-	bam-readcount   https://github.com/genome/bam-readcount
+	Picard tools	http://broadinstitute.github.io/picard/
+	Samtools	http://www.htslib.org/
+	BCFtools	http://www.htslib.org/
+	bedtools	http://bedtools.readthedocs.io/en/latest/
+	BamTools	https://github.com/pezmaster31/bamtools
+	bam-readcount	https://github.com/genome/bam-readcount
 	BBTools	http://jgi.doe.gov/data-and-tools/bbtools/
 
 **Fusion genes**
@@ -81,7 +81,7 @@ Collection of tools for next generation sequencing (NGS) analysis of whole genom
 	JAFFA	https://github.com/Oshlack/JAFFA
 	DeFuse	http://compbio.bccrc.ca/software/defuse/
 	EricScript	https://sites.google.com/site/bioericscript/
-	pizzly    https://github.com/pmelsted/pizzly
+	pizzly	https://github.com/pmelsted/pizzly
 
 **Quantitative analysis/Differential expression**
 
