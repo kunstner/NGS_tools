@@ -50,15 +50,15 @@ A collection of tools useful for 16s rRNA sequencing (not comprehensive)
 	
 **Downstream analysis (e.g. alpha/beta diversity, indicator species)**
 
-	phyloseq		http://joey711.github.io/phyloseq/
-	mothur			https://www.mothur.org/
-	vegan			https://cran.r-project.org/web/packages/vegan/index.html
+	phyloseq	http://joey711.github.io/phyloseq/
+	mothur		https://www.mothur.org/
+	vegan		https://cran.r-project.org/web/packages/vegan/index.html
 	indicspecies	https://cran.r-project.org/web/packages/indicspecies/
-	DESeq2			http://bioconductor.org/packages/release/bioc/html/DESeq2.html
-	ALDEx2			https://bioconductor.org/packages/release/bioc/html/ALDEx2.html
-	QIIME2			https://qiime2.org/
+	DESeq2		http://bioconductor.org/packages/release/bioc/html/DESeq2.html
+	ALDEx2		https://bioconductor.org/packages/release/bioc/html/ALDEx2.html
+	QIIME2		https://qiime2.org/
 	metagenomeSeq	http://cbcb.umd.edu/software/metagenomeSeq/
-	microbiome		https://github.com/microbiome/microbiome/
+	microbiome	https://github.com/microbiome/microbiome/
 	
 **Pipeline platforms (interactive)**
 
