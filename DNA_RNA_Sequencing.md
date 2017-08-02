@@ -19,7 +19,7 @@ Collection of tools for next generation sequencing (NGS) analysis of whole genom
 	ConDeTri	https://github.com/linneas/condetri
 	FASTX-Toolkit	http://hannonlab.cshl.edu/fastx_toolkit/
 	cutadapt	https://github.com/marcelm/cutadapt
-	BBDuk	https://sourceforge.net/projects/bbmap/
+	BBDuk		https://sourceforge.net/projects/bbmap/
 
 **Error correction**
 
@@ -29,10 +29,10 @@ Collection of tools for next generation sequencing (NGS) analysis of whole genom
 
 **Short read aligner**
 
-	bwa	https://github.com/lh3/bwa
-	bowtie	http://bowtie-bio.sourceforge.net/index.shtml
-	BBMap	https://sourceforge.net/projects/bbmap/
-	Stampy	http://www.well.ox.ac.uk/project-stampy
+	bwa		https://github.com/lh3/bwa
+	bowtie		http://bowtie-bio.sourceforge.net/index.shtml
+	BBMap		https://sourceforge.net/projects/bbmap/
+	Stampy		http://www.well.ox.ac.uk/project-stampy
 	segemehl	http://www.bioinf.uni-leipzig.de/Software/segemehl/
 	
 **RNA-seq aligner**
@@ -44,27 +44,27 @@ Collection of tools for next generation sequencing (NGS) analysis of whole genom
 **Pseudo-aligner for RNA-seq**
 
 	kallisto	https://pachterlab.github.io/kallisto/
-	Salmon	https://combine-lab.github.io/salmon/
+	Salmon		https://combine-lab.github.io/salmon/
 	Sailfish	http://www.cs.cmu.edu/~ckingsf/software/sailfish/
     
 **Variant calling**
     
-	GATK	https://software.broadinstitute.org/gatk/gatkdocs/current/
+	GATK		https://software.broadinstitute.org/gatk/gatkdocs/current/
 	VarScan2	http://dkoboldt.github.io/varscan/
 	Samtools	http://www.htslib.org/
 	FreeBayes	https://github.com/ekg/freebayes
-	VarDict	https://github.com/AstraZeneca-NGS/VarDict
+	VarDict		https://github.com/AstraZeneca-NGS/VarDict
  
 **Variant annotation**
 
-	ANNOVAR	https://github.com/WGLab/doc-ANNOVAR/
+	ANNOVAR		https://github.com/WGLab/doc-ANNOVAR/
 	Oncotator	http://portals.broadinstitute.org/oncotator/
-	SNPeff	http://snpeff.sourceforge.net/index.html
-	VAT	http://vat.gersteinlab.org/
-	VeP	http://www.ensembl.org/info/docs/tools/vep/index.html
-	CADD	http://cadd.gs.washington.edu/
-	Condel	http://bg.upf.edu/fannsdb/query/condel
-	CGI	https://www.cancergenomeinterpreter.org/home
+	SNPeff		http://snpeff.sourceforge.net/index.html
+	VAT		http://vat.gersteinlab.org/
+	VeP		http://www.ensembl.org/info/docs/tools/vep/index.html
+	CADD		http://cadd.gs.washington.edu/
+	Condel		http://bg.upf.edu/fannsdb/query/condel
+	CGI		https://www.cancergenomeinterpreter.org/home
 
 **Manipulating files (sam/bam/vcf/gff/gtf/...)**
     
@@ -74,14 +74,14 @@ Collection of tools for next generation sequencing (NGS) analysis of whole genom
 	bedtools	http://bedtools.readthedocs.io/en/latest/
 	BamTools	https://github.com/pezmaster31/bamtools
 	bam-readcount	https://github.com/genome/bam-readcount
-	BBTools	http://jgi.doe.gov/data-and-tools/bbtools/
+	BBTools		http://jgi.doe.gov/data-and-tools/bbtools/
 
 **Fusion genes**
 
-	JAFFA	https://github.com/Oshlack/JAFFA
-	DeFuse	http://compbio.bccrc.ca/software/defuse/
+	JAFFA		https://github.com/Oshlack/JAFFA
+	DeFuse		http://compbio.bccrc.ca/software/defuse/
 	EricScript	https://sites.google.com/site/bioericscript/
-	pizzly	https://github.com/pmelsted/pizzly
+	pizzly		https://github.com/pmelsted/pizzly
 
 **Quantitative analysis/Differential expression**
 
