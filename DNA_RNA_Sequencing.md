@@ -17,16 +17,19 @@ Collection of tools for next generation sequencing (NGS) analysis of whole genom
 	ConDeTri    https://github.com/linneas/condetri
 	FASTX-Toolkit   http://hannonlab.cshl.edu/fastx_toolkit/
 	cutadapt    https://github.com/marcelm/cutadapt
+	BBDuk	https://sourceforge.net/projects/bbmap/
 
 **Error correction**
 
 	Quake   http://www.cbcb.umd.edu/software/quake/
 	Echo    http://uc-echo.sourceforge.net/
+	BBNorm	https://sourceforge.net/projects/bbmap/
 
 **Short read aligner**
 
 	bwa	https://github.com/lh3/bwa
 	bowtie	http://bowtie-bio.sourceforge.net/index.shtml
+	BBMap	https://sourceforge.net/projects/bbmap/
 	Stampy  http://www.well.ox.ac.uk/project-stampy
 	segemehl    http://www.bioinf.uni-leipzig.de/Software/segemehl/
 	
@@ -69,6 +72,7 @@ Collection of tools for next generation sequencing (NGS) analysis of whole genom
 	bedtools    http://bedtools.readthedocs.io/en/latest/
 	BamTools    https://github.com/pezmaster31/bamtools
 	bam-readcount   https://github.com/genome/bam-readcount
+	BBTools	http://jgi.doe.gov/data-and-tools/bbtools/
 
 **Fusion genes**
 
