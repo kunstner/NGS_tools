@@ -5,3 +5,5 @@ This repository contains a collection of tools useful for RNA/DNA sequencing and
 Tools for RNA/DNA sequencing are listed in [RNA_DNA_Sequencing.md](RNA_DNA_Sequencing.md)
 
 Tools for 16s rRNA sequencing are listed in [Microbiome.md](Microbiome.md)
+
+Other resources are listed in [Useful_links.md](Useful_links.md)
