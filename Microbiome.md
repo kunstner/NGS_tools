@@ -64,5 +64,5 @@ A collection of tools useful for 16s rRNA sequencing (not comprehensive)
 
 	mothur	https://www.mothur.org/
 	QIIME2	https://qiime2.org/
-	MEGAN	http://joey711.github.io/phyloseq/
+	MEGAN	http://ab.inf.uni-tuebingen.de/software/megan6/
 	
