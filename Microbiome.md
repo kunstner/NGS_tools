@@ -65,4 +65,8 @@ A collection of tools useful for 16s rRNA sequencing (not comprehensive)
 	mothur	https://www.mothur.org/
 	QIIME2	https://qiime2.org/
 	MEGAN	http://ab.inf.uni-tuebingen.de/software/megan6/
+
+**Meta-analysis platforms**
+
+	Qiita https://github.com/biocore/qiita
 	
