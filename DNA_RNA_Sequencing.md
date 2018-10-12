@@ -13,6 +13,10 @@ Collection of tools for next generation sequencing (NGS) analysis of whole genom
 
 	FastQC	http://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 
+**Read extraction**
+
+	Bazam https://github.com/ssadedin/bazam
+
 **Read trimming (and adaptor removal)**
 
 	Trimmomatic	http://www.usadellab.org/cms/?page=trimmomatic
