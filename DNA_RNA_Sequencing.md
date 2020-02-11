@@ -53,7 +53,7 @@ Collection of tools for next generation sequencing (NGS) analysis of whole genom
     
 **Variant calling**
     
-	GATK		https://software.broadinstitute.org/gatk/gatkdocs/current/
+	GATK		https://github.com/broadinstitute/gatk/releases
 	VarScan2	http://dkoboldt.github.io/varscan/
 	Samtools	http://www.htslib.org/
 	FreeBayes	https://github.com/ekg/freebayes
@@ -94,6 +94,13 @@ Collection of tools for next generation sequencing (NGS) analysis of whole genom
 	DESeq2	http://bioconductor.org/packages/release/bioc/html/DESeq2.html
 	edgeR	http://www.bioconductor.org/packages/release/bioc/html/edgeR.html
 	
+**Gene set enrichment analysis**
+
+	MSigDB		https://www.gsea-msigdb.org/gsea/msigdb/index.jsp
+	R::MSigDB	https://github.com/oganm/MSigDB
+	Mouse v5.2	https://github.com/stephenturner/msigdf
+	Mouse v7	https://github.com/ToledoEM/msigdf
+
 **Visualisation**
 
 	IGV	http://software.broadinstitute.org/software/igv/
@@ -102,5 +109,14 @@ Collection of tools for next generation sequencing (NGS) analysis of whole genom
 	
 **Genome builds**
 
-	Coming soon
+	hg38/GRCh38		Dec 2013
+	hg19/GRCh37		Feb 2009
+	hg18/NCBI Build 36.1	Mar 2006
+	hg17/NCBI Build 35	May 2004
+	hg16/NCBI Build 34	Jul 2003
+	
+	mm10/GRCh38		Dec 2011
+	mm9/NCBI Build 37	Jul 2007
+	mm8/NCBI Build 36	Feb 2006
+	mm7/NCBI Build 35	Aug 2005
 	
