@@ -39,16 +39,19 @@ A collection of tools useful for 16s rRNA sequencing (not comprehensive)
 
 **Dereplication/OTU clustering/Taxonomic assignments**
 	
-	vsearch https://github.com/torognes/vsearch
-	usearch http://www.drive5.com/usearch/
-	mothur	https://www.mothur.org/
-	QIIME2	https://qiime2.org/
+	vsearch 	https://github.com/torognes/vsearch
+	usearch 	http://www.drive5.com/usearch/
+	mothur		https://www.mothur.org/
+	QIIME2		https://qiime2.org/
+	dada2		https://benjjneb.github.io/dada2/index.html
+	DECIPHER	https://bioconductor.org/packages/release/bioc/html/DECIPHER.html
 	
 **Phylogenetic tree reconstruction**
 
 	FastTree	http://www.microbesonline.org/fasttree/
+	phangorn	https://cran.r-project.org/web/packages/phangorn/index.html
 	
-**Downstream analysis (e.g. alpha/beta diversity, indicator species)**
+**Downstream analysis (e.g. alpha/beta diversity, indicator species, differential abundance)**
 
 	phyloseq	http://joey711.github.io/phyloseq/
 	mothur		https://www.mothur.org/
@@ -59,14 +62,29 @@ A collection of tools useful for 16s rRNA sequencing (not comprehensive)
 	QIIME2		https://qiime2.org/
 	metagenomeSeq	http://cbcb.umd.edu/software/metagenomeSeq/
 	microbiome	https://github.com/microbiome/microbiome/
+	corncob		https://github.com/bryandmartin/corncob
+	breakaway	https://github.com/adw96/breakaway
+	DivNet		https://github.com/adw96/DivNet
+	
+**Functional profiling of microbial communities**
+	
+	PICRUSt		http://picrust.github.io/picrust/
+	PICRUSt2	https://github.com/picrust/picrust2
+	Tax4fun		http://tax4fun.gobics.de/
+	Piphillin	https://piphillin.secondgenome.com/
+	PanFP		https://github.com/srjun/PanFP
 	
 **Pipeline platforms (interactive)**
 
 	mothur	https://www.mothur.org/
 	QIIME2	https://qiime2.org/
 	MEGAN	http://ab.inf.uni-tuebingen.de/software/megan6/
+	dada2	https://benjjneb.github.io/dada2/index.html
 
 **Meta-analysis platforms**
 
 	Qiita https://github.com/biocore/qiita
 	
+**Data resources**
+
+	curatedMetagenomicData	https://waldronlab.io/curatedMetagenomicData/
