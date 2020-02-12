@@ -11,3 +11,7 @@ http://galaxyproject.github.io/training-material/topics/dev/
 Connecting Databases and R
 
 https://db.rstudio.com/dplyr/
+
+RPKM, FPKM and TPM, clearly explained
+
+https://www.rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/
